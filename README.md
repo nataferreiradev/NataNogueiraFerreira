@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**NataNogueiraFerreira/NataNogueiraFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Estudante de engenharia de software</h1>  
+  <a href="https://www.fateb.br/?p=home">FATEB</a> <br>
+  cursando: primeiro termo Engenharia de Software
+  
+ <h2> Conhecimentos de:</h2>
+  <ol>
+  <li>PHP</li>
+  <li>Python</li>
+  <li>HTML e CSS</li>
+  <li>Oracle database</li>
+  <li>MySQL</li>
+  <li>pl/SQL</li>
+  </ol>
