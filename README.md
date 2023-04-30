@@ -11,3 +11,5 @@
   <li>MySQL</li>
   <li>pl/SQL</li>
   </ol>
+
+(ㆆ_ㆆ)
