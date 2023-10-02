@@ -3,6 +3,6 @@
 <a href="https://www.fateb.br/?p=home">FATEB</a>
 **cursando:** 1° Engenharia de Software
   
-![NataNogueiraFerreira GitHub stats](https://github-readme-stats.vercel.app/api?username=nataferreiradev&show_icons=true&theme=transparent)
+![snake animation](https://github.com/<nataferreiradev>/<nataferreiradev>/blob/output/github-contribution-grid-snake2.svg)
 
 (ㆆ_ㆆ)
