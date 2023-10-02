@@ -3,6 +3,15 @@
 <a href="https://www.fateb.br/?p=home">FATEB</a>
 **cursando:** 1° Engenharia de Software
   
-![snake animation](https://github.com/<nataferreiradev>/<nataferreiradev>/blob/output/github-contribution-grid-snake2.svg)
+Atualmente Sou desenvolvedor mobile hibro com flutter,
+
+Pretendo ser desenvolvedor Back-end:
+  Algumas tecnologias e linguages que possuo conhecimento
+  - C++
+  - Java
+  - Python
+  - GitHub
+  - Postman
+  - Pl/sql
 
 (ㆆ_ㆆ)
