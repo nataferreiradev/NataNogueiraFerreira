@@ -5,8 +5,8 @@
   
 Atualmente Sou desenvolvedor mobile hibro com flutter,
 
-Pretendo ser desenvolvedor Back-end:
-  Algumas tecnologias e linguages que possuo conhecimento
+Pretendo ser desenvolvedor Back-end:<br>
+  linguages que possuo conhecimento
   - C++
   - Java
   - Python
