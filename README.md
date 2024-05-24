@@ -31,3 +31,5 @@ I'm learning and trying to become a backend developer.
      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
      /picture>
 </a></p>
+        
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nataferreiradev&theme=highcontrast&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
