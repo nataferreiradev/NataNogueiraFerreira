@@ -2,7 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================
 
 ## Software Engineer
------------------
 
 Currently, I am working as a mobile developer with flutter and oracle developer.
 I'm learning and trying to become a backend developer.
@@ -21,6 +20,10 @@ I'm learning and trying to become a backend developer.
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
 
 ---
+<p align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nataferreiradev&theme=highcontrast&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
+</p>
+
 
 ## Socials
 <p align="left">
@@ -31,5 +34,3 @@ I'm learning and trying to become a backend developer.
      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
      /picture>
 </a></p>
-        
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nataferreiradev&theme=highcontrast&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
