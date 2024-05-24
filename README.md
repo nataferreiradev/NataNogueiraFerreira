@@ -21,7 +21,7 @@ I'm learning and trying to become a backend developer.
 
 ---
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nataferreiradev&theme=highcontrast&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nataferreiradev&theme=highcontrast&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
 
