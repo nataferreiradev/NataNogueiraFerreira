@@ -9,7 +9,7 @@ I'm learning and trying to become a backend developer.
 *   🌍  I'm based in Brazil:SP:Birigui
 *   ✉️  You can contact me at [nataferreira929@hotmail.com](mailto:nataferreira929@hotmail.com)
 *   🚀  I'm currently working on [CompuSoftware](http://www.cscompusoftware.com.br/)
-*   🧠  I'm learning Rust and Java
+*   🧠  I'm learning Go and Java
 ----
 ## Skills 
 ### Back-end
